@@ -1,4 +1,5 @@
 Running the GSM.swf Simulation
+<img width="1309" height="693" alt="image" src="https://github.com/user-attachments/assets/110cca37-3516-42d3-be92-4ffa86298a1c" />
 
 Download the file GSM.swf.
 Open the following link: https://flashplayer.fullstacks.net/?kind=Flash_Emulator
