@@ -7,7 +7,6 @@ Click Choose File and select GSM.swf.
 Set the display parameters:
 Width: 800
 Height: 400
-
 Specify the simulation parameters:
 Number of particles: e.g., 100
 Rotation speed of the disk: 40
